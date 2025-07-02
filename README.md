@@ -4,6 +4,12 @@ This Power BI project demonstrates the use of new **Card visuals** and **Button-
 
 ---
 
+## 📸 Dashboard Preview
+
+![Dashboard Screenshot](nike-dashboard.png)
+
+---
+
 ## 🎯 Project Objective
 
 - Showcase **custom KPI cards**, **image slicers**, and **conditional formatting**
@@ -26,11 +32,7 @@ This Power BI project demonstrates the use of new **Card visuals** and **Button-
 
 ---
 
-## 📸 Dashboard Preview
 
-![Dashboard Screenshot](./Screenshot_Dashboard_View.png)
-
----
 
 ## ✨ Key Features
 
@@ -46,8 +48,8 @@ This Power BI project demonstrates the use of new **Card visuals** and **Button-
 
 | File Name                      | Description                           |
 |-------------------------------|---------------------------------------|
-| `Nike_Product_Dashboard.pbix` | Main Power BI dashboard file          |
-| `Screenshot_Dashboard_View.png` | Visual preview of dashboard layout    |
+| `UttamNikeShop.pbix` | Main Power BI dashboard file          |
+| `nike-dashboard.png` | Visual preview of dashboard layout    |
 | `README.md`                   | Project documentation and overview    |
 
 ---
